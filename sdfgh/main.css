@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, main{
+height: 100%;
+}
+.first{
+    height: 100%;   
+   background-image: url(./kll2.jpg);
+background-position: center;
+background-size: cover;
+
+
+}
+.third{
+    height: 100%;   
+    background-image: url(./h555.jpg);
+ background-position: center;
+ background-size: cover;
+   
+}
+
+
+
